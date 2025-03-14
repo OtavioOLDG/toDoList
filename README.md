@@ -18,9 +18,8 @@ Primeiro, faça o clone deste repositório:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-'''bash
 
-### 🏗 2. Criar o ambiente virtual (Opcional para rodar localmente)
+## 🏗 2. Criar o ambiente virtual (Opcional para rodar localmente)
 
 Se quiser rodar localmente sem Docker, crie um ambiente virtual:
 
